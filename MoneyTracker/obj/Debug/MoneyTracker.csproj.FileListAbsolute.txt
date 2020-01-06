@@ -1,0 +1,10 @@
+E:\E-Documents\C#\MyMoney\MoneyTracker\bin\Debug\MoneyTracker.exe.config
+E:\E-Documents\C#\MyMoney\MoneyTracker\bin\Debug\MoneyTracker.exe
+E:\E-Documents\C#\MyMoney\MoneyTracker\bin\Debug\MoneyTracker.pdb
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.csprojAssemblyReference.cache
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.MoneyTracker.resources
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.Properties.Resources.resources
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.csproj.GenerateResource.cache
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.csproj.CoreCompileInputs.cache
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.exe
+E:\E-Documents\C#\MyMoney\MoneyTracker\obj\Debug\MoneyTracker.pdb

@@ -1,0 +1,17 @@
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\MyMoney.UnitTests.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\MyMoney.UnitTests.pdb
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\MoneyTracker.exe
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\MoneyTracker.pdb
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\MoneyTracker.exe.config
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\obj\Debug\MyMoney.UnitTests.csprojAssemblyReference.cache
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\obj\Debug\MyMoney.UnitTests.csproj.CoreCompileInputs.cache
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\obj\Debug\MyMoney.UnitTests.csproj.CopyComplete
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\obj\Debug\MyMoney.UnitTests.dll
+E:\E-Documents\C#\MyMoney\MyMoney.UnitTests\obj\Debug\MyMoney.UnitTests.pdb
